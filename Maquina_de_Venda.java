@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-
 public class Maquina_de_Venda {
 
     public static void main(String[] args) {
